@@ -104,7 +104,7 @@ This command provisions a multi-node Kind cluster and deploys the full observabi
 ### Option B: Step-by-Step Walkthrough
 
 See the article for a detailed, phase-by-phase guide:
-[**Building a Developer-Centric Open Observability Stack on Kubernetes**](#)
+[**Building a Developer-Centric Open Observability Stack on Kubernetes**](https://buildplatformsdaily.substack.com/p/open-observability-as-platform-engineering-product)
 
 ---
 
