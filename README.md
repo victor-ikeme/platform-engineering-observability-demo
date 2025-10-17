@@ -2,7 +2,7 @@
 
 **Building a Developer-Centric Open Observability Platform on Kubernetes with OpenTelemetry, Perses, and Dash0**
 
-![alt text](observability-article-perses.png)
+![alt text](images/observability-article-perses.png)
 
 ---
 
