@@ -1,4 +1,4 @@
-# 🧭 Platform Engineering Observability Demo
+# Platform Engineering Observability Demo
 
 **Building a Developer-Centric Open Observability Platform on Kubernetes with OpenTelemetry, Perses, and Dash0**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Modern platform teams have moved beyond adding “just another dashboard.”
 **Observability today is a platform capability — not a tool.**
@@ -20,7 +20,7 @@ This repository demonstrates a **Kubernetes-native observability stack** powered
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 This demo shows how to:
 
@@ -32,7 +32,7 @@ This demo shows how to:
 
 ---
 
-## 🧩 Why This Stack
+## Why This Stack
 
 | Platform Goal             | Product Outcome                               |
 | ------------------------- | --------------------------------------------- |
@@ -46,7 +46,7 @@ This project demonstrates how **open telemetry standards**, **automated instrume
 
 ---
 
-## 🧱 Stack Components
+## Stack Components
 
 * **OpenTelemetry** – Telemetry standardization and auto-instrumentation.
 * **Perses** – Open, declarative dashboarding for reproducible visibility.
@@ -56,7 +56,7 @@ This project demonstrates how **open telemetry standards**, **automated instrume
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 platform-observability-demo/
@@ -75,7 +75,7 @@ platform-observability-demo/
 
 ---
 
-## 🧰 Prerequisites
+## Prerequisites
 
 * **Docker** – Build and load local images
 * **Kind** – Local Kubernetes cluster
@@ -108,7 +108,7 @@ See the article for a detailed, phase-by-phase guide:
 
 ---
 
-## 🔍 Validation
+## Validation
 
 Once deployed, access each service locally:
 
@@ -122,7 +122,7 @@ Once deployed, access each service locally:
 
 ---
 
-## 🧭 Learning Outcomes
+## Learning Outcomes
 
 * Understand how observability evolves from tooling to **platform capability**.
 * Learn how to **automate instrumentation** and **standardize telemetry** using OpenTelemetry.
@@ -132,7 +132,7 @@ Once deployed, access each service locally:
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 * **Observability by Default** – Instrumentation should ship with the platform, not as an afterthought.
 * **Data as Feedback** – Treat telemetry as learning loops, not just logs.
@@ -141,7 +141,7 @@ Once deployed, access each service locally:
 
 ---
 
-## 🧼 Cleanup
+## Cleanup
 
 ```bash
 make delete-cluster
@@ -151,12 +151,12 @@ Removes all resources and resets your environment.
 
 ---
 
-## 🧠 Author
+## Author
 
 **Victor Ikeme**
 *Technical Platform Product Manager · Cloud Platforms Architect*
 Host of **Build Platforms Daily**
-📘 [victor-ikeme/platform-observability-demo](https://github.com/victor-ikeme/platform-observability-demo)
+📘 [victor-ikeme/platform-engineering-observability-demo](https://github.com/victor-ikeme/platform-observability-demo)
 
 ---
 
