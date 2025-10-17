@@ -1,6 +1,8 @@
-# 🧭 Platform Engineerting Observability Demo
+# 🧭 Platform Engineering Observability Demo
 
 **Building a Developer-Centric Open Observability Platform on Kubernetes with OpenTelemetry, Perses, and Dash0**
+
+![alt text](observability-article-perses.png)
 
 ---
 
@@ -164,21 +166,3 @@ Host of **Build Platforms Daily**
 `#kubernetes` `#devex` `#internaldeveloperplatform` `#cloudnative`
 `#dashboardsascode` `#platformproductmanagement` `#SRE` `#developerexperience`
 
----
-
-## 🖼️ Featured Image Ideas
-
-**Option 1:**
-A layered platform diagram showing: *Kubernetes → OpenTelemetry → Dash0 → Perses* with the caption
-
-> “From Signals to Understanding: Building a Developer-Centric Observability Platform.”
-
-**Option 2:**
-Abstract system blueprint overlaying dashboards, trace lines, and Kubernetes pods labeled:
-
-> “Systems That Explain Themselves.”
-
----
-
-Would you like me to create the **README badges and GitHub repo metadata block** (license, CI badge, demo link, article reference) next?
-That would make the repository look production-ready and SEO-optimized for GitHub discovery.
